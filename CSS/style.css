@@ -1,0 +1,21 @@
+html {
+  width: 100%;
+}
+.pageContainer {
+  width: 100%;
+  height: 100vh;
+  /* background-color: #ff0; */
+}
+
+/* 
+  MARK:Home Page
+*/
+nav a {
+  color: rgb(59, 57, 57);
+  text-decoration: none;
+}
+
+.websiteName {
+  font-size: 30px;
+  font-weight: bold;
+}
